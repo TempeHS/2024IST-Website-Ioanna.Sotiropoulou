@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 DIV {
 border: 1px solid #000; 
 }
@@ -16,3 +17,23 @@ width: 800px;
 margin-right: auto; 
 margin-left: auto;
 }
+=======
+DIV {
+	border: 1px solid #ffffff;
+	}
+
+#Header {
+	height: 100px;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	background: url(images/banner.png) no-repeat;
+	color:red;
+	}
+
+#MainContent {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	}
+>>>>>>> 14d43e4b87b71908fb85cc30568e092065fd1635
